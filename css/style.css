@@ -26,8 +26,8 @@ img {
 @font-face {
   font-family: 'Lato';
   src: local('LatoBold'),
-  url("fonts/LatoBold.woff2") format("woff2"),
-  url("fonts/LatoBold.woff") format("woff");
+  url("../fonts/LatoBold.woff2") format("woff2"),
+  url("../fonts/LatoBold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -36,8 +36,8 @@ img {
 @font-face {
   font-family: 'Lato';
   src: local('LatoSemibold'),
-  url("fonts/LatoSemibold.woff2") format("woff2"),
-  url("fonts/LatoSemibold.woff") format("woff");
+  url("../fonts/LatoSemibold.woff2") format("woff2"),
+  url("../fonts/LatoSemibold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -46,8 +46,8 @@ img {
 @font-face {
   font-family: 'Lato';
   src: local('LatoMedium'),
-  url("fonts/LatoMedium.woff2") format("woff2"),
-  url("fonts/LatoMedium.woff") format("woff");
+  url("../fonts/LatoMedium.woff2") format("woff2"),
+  url("../fonts/LatoMedium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -56,8 +56,8 @@ img {
 @font-face {
   font-family: 'Lato';
   src: local('LatoRegular'),
-  url("fonts/LatoRegular.woff2") format("woff2"),
-  url("fonts/LatoRegular.woff") format("woff");
+  url("../fonts/LatoRegular.woff2") format("woff2"),
+  url("../fonts/LatoRegular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -66,8 +66,8 @@ img {
 @font-face {
   font-family: 'Inter';
   src: local('InterRegular'),
-  url("fonts/InterRegular.woff2") format("woff2"),
-  url("fonts/InterRegular.woff") format("woff");
+  url("../fonts/InterRegular.woff2") format("woff2"),
+  url("../fonts/InterRegular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -76,8 +76,8 @@ img {
 @font-face {
   font-family: 'Korataki';
   src: local('KoratakiRegular'),
-  url("fonts/KoratakiRegular.woff2") format("woff2"),
-  url("fonts/KoratakiRegular.woff") format("woff");
+  url("../fonts/KoratakiRegular.woff2") format("woff2"),
+  url("../fonts/KoratakiRegular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -335,21 +335,21 @@ img {
 }
 
 .main-img-1 {
-  background-image: url('img/main-img-1-1920.png');
+  background-image: url('../img/main-img-1-1920.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .main-img-2 {
-  background-image: url('img/main-img-2-1920.png');
+  background-image: url('../img/main-img-2-1920.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .main-img-3 {
-  background-image: url('img/main-img-3-1920.png');
+  background-image: url('../img/main-img-3-1920.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
